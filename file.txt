@@ -1,0 +1,11 @@
+public class A{
+public void run(int a,String y){}
+public void run(String y,int a){}
+public void run(int a){
+
+}}
+
+public class B{
+
+
+public void run(int a){}}
